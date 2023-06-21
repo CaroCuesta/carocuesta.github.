@@ -34,7 +34,7 @@ body {
   font-size: 17px;
 }
 .topnav a:hover {
-  color:#400e08;
+  color: #400e08;
 
 }
 .topnav .icon {
@@ -155,6 +155,7 @@ margin-top: 20px;
   color: white;
   cursor: pointer;
 }
+CONTACT FORM MARIE
 .form-button [type=text], select,input, textarea {
   width: 100%;
   padding: 12px; 
@@ -198,7 +199,7 @@ margin-top: 20px;
   padding: 20px;
 }
 }
-
+FINALL
 body {
   padding: 0;
   margin: 0;
@@ -325,6 +326,9 @@ div.social {
     grid-template-columns: 1fr;
   }
 }
+
+
+CARDS EXPERIENCIAS
 
 :root{
 	--white-text:rgb(123, 133, 189);
@@ -458,6 +462,8 @@ body {
   transform: translateY(2px);
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
 }
+
+RESERVAS
 
 .images-calendar {
   width: 100%;
